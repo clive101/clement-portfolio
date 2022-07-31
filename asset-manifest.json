@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.506ca413.css",
+    "main.js": "/static/js/main.4af84818.js",
+    "static/media/Clement.pdf": "/static/media/Clement.fadffe2899a07814b1e0.pdf",
+    "static/media/star.jpg": "/static/media/star.b0a8a15f592cfb456940.jpg",
+    "static/media/ball.jpg": "/static/media/ball.cba7614bcda5d7211569.jpg",
+    "index.html": "/index.html",
+    "main.506ca413.css.map": "/static/css/main.506ca413.css.map",
+    "main.4af84818.js.map": "/static/js/main.4af84818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506ca413.css",
+    "static/js/main.4af84818.js"
+  ]
+}
